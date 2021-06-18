@@ -1,12 +1,12 @@
-let foto = document.querySelector('#foto')
+document.getElementById('bnt').onclick = teste
 
-function fotoZoom() {
-    foto.style.width = '400px'
-    foto.style.height = '300px'
+function validaEmail() {
+    let txtEmail = document.querySelector('#txtEmail')
+    if (txtEmail.value.indexOf('@') == -1){
+        txtEmail.innerHTML = "E-mail invalido"
+        txtEmail.style.color = 'red"'
+    }
+
 }
 
-function fotoNormal() {
-    foto.style.width = '300px'
-    foto.style.height = '200px'
-}
 
