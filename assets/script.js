@@ -1,3 +1,4 @@
-document.getElementById('texto').style.color='#f00';
+
+document.getElementById('texto').style.color='#1900ff';
 
 
