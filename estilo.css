@@ -2,14 +2,59 @@ p {
     text-align: justify;
 }
 
+#video{
+    margin-top: 15px;
+    right: 0;
+    left: 0;
+    
+}
+.card-group{
+    padding: 20px 0px 20px 0px;
+}
+.row{
+    height: 450px;
+    background-color: blueviolet;
+    margin-top: 25px;
+}
+.form{
+ 
+  margin-bottom: 30px;
+  padding: 40px;
 
-
+}
+.color{
+    background-color: rgba(94, 77, 63, 0.877);
+}
+.containe{
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: blue;
+    
+    margin-left: 0;
+    max-width: max-content;
+  
+    
+}
+.Irelia{
+    
+    margin-left: 25px;
+}
+.jumbotron{
+    background-color: aqua;
+    margin: 0ch;
+}
 .fotos{
     width: 400px;
     height: 300px;
 }
+.btn {
+    margin-top: 20px;
+}
 
-
+.card{
+    margin-right: 30px;
+}
 
 #centro{
     background-color: rgb(144, 202, 202);
